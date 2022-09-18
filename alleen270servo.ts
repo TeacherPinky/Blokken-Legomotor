@@ -23,9 +23,9 @@ namespace kitronik_simple_servo {
      */
     export enum ServoDirection {
         //% block="vooruit"
-        CW,
+        CCW,
         //% block="achteruit"
-        CCW
+        CW
     }
 
     /**
